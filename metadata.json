@@ -1,0 +1,5 @@
+{
+  "name": "ICA Management",
+  "description": "A comprehensive frontend application for managing students, teachers, courses, and announcements in a school. This is a demonstration application and does not connect to a real backend or database.",
+  "requestFramePermissions": []
+}
